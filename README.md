@@ -19,6 +19,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sofiagonzalo&show_icons=true&locale=en&layout=compact" alt="sofiagonzalo" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?sofiagonzalo=anuraghazra&show_icons=true&theme=dracula" alt=stats></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sofiagonzalo&show_icons=true&theme=dracula" alt=stats></p>
 
 
