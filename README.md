@@ -19,6 +19,9 @@
 
 <p>NOTE: Top Languages does not indicate my skill level or anything like that, it's a GitHub metric of which languages have the most code on GitHub. It's a new feature of github-readme-stats.</p>
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagonzalo)](https://github.com/sofiagonzalo/github-readme-stats)
+
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagonzalo
 " alt="sofiagonzalo" /></p>
 
