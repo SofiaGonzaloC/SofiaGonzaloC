@@ -30,6 +30,7 @@
 <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=ruby-on-rails&logoColor=white" alt="rals">
 </p>
 
+<h3>stats</h3>
 <p>
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagonzaloc&layout=compact&theme=cobalt" alt="langs">
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=sofiagonzaloc&show_icons=true&theme=cobalt" alt="stats">
