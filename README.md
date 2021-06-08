@@ -32,6 +32,6 @@
 
 <h3>stats</h3>
 <p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagonzaloc&layout=compact&theme=cobalt" alt="langs">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=sofiagonzaloc&show_icons=true&theme=cobalt" alt="stats">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sofiagonzaloc&layout=compact&theme=cobalt" alt="langs">
+<img src="https://github-readme-stats.vercel.app/api?username=sofiagonzaloc&show_icons=true&theme=cobalt" alt="stats">
 </p>
