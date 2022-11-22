@@ -26,13 +26,6 @@
 
 </p>
 
-<h3 align="left">Learning</h3>
-<hr>
-<p align="center">
-<img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" alt="Java">
-
-</p>
-
 <h3 align="left">Projects I worked on</h3>
 <hr>
 <p align="center">
